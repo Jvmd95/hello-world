@@ -1,7 +1,8 @@
-# imdb_analysis
+# IMDB Data analysis
 
-A simple data analysis project using only pandas, matplotlib and seaborn. The data comes from the official IMDB datasets they offer for non-commercial use. You can find an explanation for the dataset on this link: https://www.imdb.com/interfaces/
+A data analysis project using pandas, matplotlib and seaborn. I focus on movies on this project while ignoring TV shows and other type of media. 
 
-Luckily the database was mostly clean so almost no data cleaning was done.
+## Data sources
 
-In the future I will add an analysis of TV shows.
+The data comes from the official IMDB datasets they offer for non-commercial use. You can find it on this link: https://www.imdb.com/interfaces/
+
